@@ -641,7 +641,7 @@ kable(test_results)%>%
 plot(ensemble_1)
 ```
 
-![](Ensemble-Markdown_files/figure-html/unnamed-chunk-21-1.png)<!-- -->
+![](Ensemble-Markdown_files/figure-html/unnamed-chunk-18-1.png)<!-- -->
 ### Next, I use a GLMNET model as a top layer model.
 
 ```r
