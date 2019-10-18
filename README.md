@@ -1,11 +1,3 @@
----
-title: "Ensembling ML Models"
-output: 
-  html_document: 
-    keep_md: yes
----
-
-
 #### Load Data and look at data structure
 
 ```r
