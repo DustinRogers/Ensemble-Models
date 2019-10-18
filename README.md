@@ -1,12 +1,3 @@
----
-title: "Ensembling ML Models"
-output: 
-  html_document: 
-    fig_height: 6
-    keep_md: yes
----
-
-
 #### Load Data and look at data structure
 
 ```r
