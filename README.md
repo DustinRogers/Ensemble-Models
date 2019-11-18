@@ -530,7 +530,7 @@ summary(results)
 dotplot(results,metric = 'RMSE')
 ```
 
-![](Ensemble-Markdown_files/figure-html/unnamed-chunk-15-1.png)<!-- -->
+![](Ensemble-Markdown_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
 ### Check the correlation between Base Algorithm results
 
 ```r
@@ -545,7 +545,7 @@ ggcorrplot(modelcorr, hc.order = TRUE,
            ggtheme=theme_bw)
 ```
 
-![](Ensemble-Markdown_files/figure-html/unnamed-chunk-16-1.png)<!-- -->
+![](Ensemble-Markdown_files/figure-html/unnamed-chunk-13-1.png)<!-- -->
 
 #### Check out how the models performed on the Test Data Set by adding our predictions to data frame created earlier
 
