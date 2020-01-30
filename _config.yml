@@ -88,7 +88,6 @@ analytics:
     tracking_id          : UA-154341787-1
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Dustin Rogers"
